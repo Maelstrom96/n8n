@@ -516,6 +516,7 @@
       "dist/nodes/Sendy/Sendy.node.js",
       "dist/nodes/SurveyMonkey/SurveyMonkeyTrigger.node.js",
       "dist/nodes/SyncroMSP/SyncroMSP.node.js",
+      "dist/nodes/SyncroMSP/SyncroMSPTrigger.node.js",
       "dist/nodes/Taiga/Taiga.node.js",
       "dist/nodes/Taiga/TaigaTrigger.node.js",
       "dist/nodes/Tapfiliate/Tapfiliate.node.js",
